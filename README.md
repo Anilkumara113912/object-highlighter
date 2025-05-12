@@ -15,6 +15,7 @@ This project is a Three.js-based interactive 3D scene where users can click on 3
 
 ### 1. Clone the Repository
 
+
 ```bash
 git clone https://github.com/Anilkumara113912/object-highlighter.git
 cd object-highlighter
